@@ -5,3 +5,6 @@ Add a row with your name and a short description of your research (10 words or f
 | Name | Research |
 |------|----------|
 | Simon Lavoie | Low background instrumentation for neutrinoless double beta decay |
+|Khadir|Propogation effects of FRBs to study intervening structures|
+|Justin Bourdignon|I do research on optical metasurfaces|
+| Naman Jain | Fast Radio Bursts (FRBs) |
